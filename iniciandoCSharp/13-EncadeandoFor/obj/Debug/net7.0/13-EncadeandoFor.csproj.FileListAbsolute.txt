@@ -1,0 +1,15 @@
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\13-EncadeandoFor\bin\Debug\net7.0\13-EncadeandoFor.exe
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\13-EncadeandoFor\bin\Debug\net7.0\13-EncadeandoFor.deps.json
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\13-EncadeandoFor\bin\Debug\net7.0\13-EncadeandoFor.runtimeconfig.json
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\13-EncadeandoFor\bin\Debug\net7.0\13-EncadeandoFor.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\13-EncadeandoFor\bin\Debug\net7.0\13-EncadeandoFor.pdb
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\13-EncadeandoFor\obj\Debug\net7.0\13-EncadeandoFor.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\13-EncadeandoFor\obj\Debug\net7.0\13-EncadeandoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\13-EncadeandoFor\obj\Debug\net7.0\13-EncadeandoFor.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\13-EncadeandoFor\obj\Debug\net7.0\13-EncadeandoFor.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\13-EncadeandoFor\obj\Debug\net7.0\13-EncadeandoFor.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\13-EncadeandoFor\obj\Debug\net7.0\13-EncadeandoFor.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\13-EncadeandoFor\obj\Debug\net7.0\refint\13-EncadeandoFor.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\13-EncadeandoFor\obj\Debug\net7.0\13-EncadeandoFor.pdb
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\13-EncadeandoFor\obj\Debug\net7.0\13-EncadeandoFor.genruntimeconfig.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\13-EncadeandoFor\obj\Debug\net7.0\ref\13-EncadeandoFor.dll
