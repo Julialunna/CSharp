@@ -1,0 +1,15 @@
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\2-Fatorial\bin\Debug\net7.0\2-Fatorial.exe
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\2-Fatorial\bin\Debug\net7.0\2-Fatorial.deps.json
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\2-Fatorial\bin\Debug\net7.0\2-Fatorial.runtimeconfig.json
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\2-Fatorial\bin\Debug\net7.0\2-Fatorial.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\2-Fatorial\bin\Debug\net7.0\2-Fatorial.pdb
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\2-Fatorial\obj\Debug\net7.0\2-Fatorial.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\2-Fatorial\obj\Debug\net7.0\2-Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\2-Fatorial\obj\Debug\net7.0\2-Fatorial.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\2-Fatorial\obj\Debug\net7.0\2-Fatorial.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\2-Fatorial\obj\Debug\net7.0\2-Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\2-Fatorial\obj\Debug\net7.0\2-Fatorial.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\2-Fatorial\obj\Debug\net7.0\refint\2-Fatorial.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\2-Fatorial\obj\Debug\net7.0\2-Fatorial.pdb
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\2-Fatorial\obj\Debug\net7.0\2-Fatorial.genruntimeconfig.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\2-Fatorial\obj\Debug\net7.0\ref\2-Fatorial.dll
