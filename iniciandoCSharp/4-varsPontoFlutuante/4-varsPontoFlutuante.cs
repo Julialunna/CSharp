@@ -1,5 +1,5 @@
 ﻿using System;
-class Programa {
+class VarsPontoFlutuante {
     static void Main(string[] args)
     {
 

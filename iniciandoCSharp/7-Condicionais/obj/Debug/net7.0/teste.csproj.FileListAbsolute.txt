@@ -1,0 +1,15 @@
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\teste\bin\Debug\net7.0\teste.exe
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\teste\bin\Debug\net7.0\teste.deps.json
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\teste\bin\Debug\net7.0\teste.runtimeconfig.json
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\teste\bin\Debug\net7.0\teste.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\teste\bin\Debug\net7.0\teste.pdb
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\teste\obj\Debug\net7.0\teste.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\teste\obj\Debug\net7.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\teste\obj\Debug\net7.0\teste.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\teste\obj\Debug\net7.0\teste.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\teste\obj\Debug\net7.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\teste\obj\Debug\net7.0\teste.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\teste\obj\Debug\net7.0\refint\teste.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\teste\obj\Debug\net7.0\teste.pdb
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\teste\obj\Debug\net7.0\teste.genruntimeconfig.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\teste\obj\Debug\net7.0\ref\teste.dll

@@ -1,5 +1,5 @@
 ﻿using System;
-class Programa { 
+class AprendendoVars { 
     static void Main(string[] args)
     {
         Console.WriteLine("Projeto 2 - Criando Variáveis");

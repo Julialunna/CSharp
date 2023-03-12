@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Programa {
+class Caracteres {
     static void Main(string[] args)
     {
         Console.WriteLine("Executando projeto 5 - caracteres e textos");

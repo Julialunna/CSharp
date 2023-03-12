@@ -1,5 +1,5 @@
 ﻿using System;
-class Programa { 
+class ConversoesETipos { 
     static void Main(String[] args)
     {
         double salario = 3000.15;

@@ -1,5 +1,5 @@
 ﻿using System;
-class Programa
+class AtribuicoesVars
 {
     static void Main(string[] args)
     {

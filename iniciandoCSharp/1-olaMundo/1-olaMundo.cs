@@ -1,5 +1,5 @@
 ﻿using System;
-class Programa {
+class OlaMundo {
     static void Main(string[] args)
     {
 
