@@ -1,0 +1,15 @@
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\1-MultiplosDeTres\bin\Debug\net7.0\1-MultiplosDeTres.exe
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\1-MultiplosDeTres\bin\Debug\net7.0\1-MultiplosDeTres.deps.json
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\1-MultiplosDeTres\bin\Debug\net7.0\1-MultiplosDeTres.runtimeconfig.json
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\1-MultiplosDeTres\bin\Debug\net7.0\1-MultiplosDeTres.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\1-MultiplosDeTres\bin\Debug\net7.0\1-MultiplosDeTres.pdb
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\1-MultiplosDeTres\obj\Debug\net7.0\1-MultiplosDeTres.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\1-MultiplosDeTres\obj\Debug\net7.0\1-MultiplosDeTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\1-MultiplosDeTres\obj\Debug\net7.0\1-MultiplosDeTres.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\1-MultiplosDeTres\obj\Debug\net7.0\1-MultiplosDeTres.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\1-MultiplosDeTres\obj\Debug\net7.0\1-MultiplosDeTres.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\1-MultiplosDeTres\obj\Debug\net7.0\1-MultiplosDeTres.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\1-MultiplosDeTres\obj\Debug\net7.0\refint\1-MultiplosDeTres.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\1-MultiplosDeTres\obj\Debug\net7.0\1-MultiplosDeTres.pdb
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\1-MultiplosDeTres\obj\Debug\net7.0\1-MultiplosDeTres.genruntimeconfig.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\14-Desafios\1-MultiplosDeTres\obj\Debug\net7.0\ref\1-MultiplosDeTres.dll
