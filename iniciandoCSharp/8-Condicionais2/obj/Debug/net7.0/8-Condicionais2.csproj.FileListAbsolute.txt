@@ -1,0 +1,15 @@
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\8-Condicionais2\bin\Debug\net7.0\8-Condicionais2.exe
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\8-Condicionais2\bin\Debug\net7.0\8-Condicionais2.deps.json
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\8-Condicionais2\bin\Debug\net7.0\8-Condicionais2.runtimeconfig.json
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\8-Condicionais2\bin\Debug\net7.0\8-Condicionais2.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\8-Condicionais2\bin\Debug\net7.0\8-Condicionais2.pdb
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\8-Condicionais2\obj\Debug\net7.0\8-Condicionais2.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\8-Condicionais2\obj\Debug\net7.0\8-Condicionais2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\8-Condicionais2\obj\Debug\net7.0\8-Condicionais2.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\8-Condicionais2\obj\Debug\net7.0\8-Condicionais2.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\8-Condicionais2\obj\Debug\net7.0\8-Condicionais2.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\8-Condicionais2\obj\Debug\net7.0\8-Condicionais2.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\8-Condicionais2\obj\Debug\net7.0\refint\8-Condicionais2.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\8-Condicionais2\obj\Debug\net7.0\8-Condicionais2.pdb
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\8-Condicionais2\obj\Debug\net7.0\8-Condicionais2.genruntimeconfig.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\8-Condicionais2\obj\Debug\net7.0\ref\8-Condicionais2.dll
