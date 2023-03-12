@@ -1,0 +1,15 @@
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\10-CalculaPoupanca\bin\Debug\net7.0\10-CalculaPoupanca.exe
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\10-CalculaPoupanca\bin\Debug\net7.0\10-CalculaPoupanca.deps.json
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\10-CalculaPoupanca\bin\Debug\net7.0\10-CalculaPoupanca.runtimeconfig.json
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\10-CalculaPoupanca\bin\Debug\net7.0\10-CalculaPoupanca.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\10-CalculaPoupanca\bin\Debug\net7.0\10-CalculaPoupanca.pdb
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\10-CalculaPoupanca\obj\Debug\net7.0\10-CalculaPoupanca.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\10-CalculaPoupanca\obj\Debug\net7.0\10-CalculaPoupanca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\10-CalculaPoupanca\obj\Debug\net7.0\10-CalculaPoupanca.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\10-CalculaPoupanca\obj\Debug\net7.0\10-CalculaPoupanca.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\10-CalculaPoupanca\obj\Debug\net7.0\10-CalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\10-CalculaPoupanca\obj\Debug\net7.0\10-CalculaPoupanca.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\10-CalculaPoupanca\obj\Debug\net7.0\refint\10-CalculaPoupanca.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\10-CalculaPoupanca\obj\Debug\net7.0\10-CalculaPoupanca.pdb
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\10-CalculaPoupanca\obj\Debug\net7.0\10-CalculaPoupanca.genruntimeconfig.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\10-CalculaPoupanca\obj\Debug\net7.0\ref\10-CalculaPoupanca.dll
