@@ -8,7 +8,16 @@ class Condicionais2{
 
         bool acompanhado=quantidadePessoas>1;
 
-        if(idadeJoao>=18 ||grupo){
+        string textoAdicional;
+
+        if(acompanhado==true){
+            textoAdicional= "João está acompanhado";
+        }else{
+            textoAdicional= "João não está acompanhado";
+        }
+
+        if(idadeJoao>=18 || acompanhado){
+            Console.WriteLine(textoAdicional);
             Console.WriteLine("Pode entrar!");
         }else {
             Console.WriteLine("Não pode entrar");
@@ -18,3 +27,4 @@ class Condicionais2{
         Console.ReadLine();
     }
 }
+

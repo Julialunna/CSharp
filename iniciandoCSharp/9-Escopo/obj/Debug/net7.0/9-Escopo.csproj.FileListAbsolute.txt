@@ -1,0 +1,15 @@
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\9-Escopo\bin\Debug\net7.0\9-Escopo.exe
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\9-Escopo\bin\Debug\net7.0\9-Escopo.deps.json
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\9-Escopo\bin\Debug\net7.0\9-Escopo.runtimeconfig.json
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\9-Escopo\bin\Debug\net7.0\9-Escopo.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\9-Escopo\bin\Debug\net7.0\9-Escopo.pdb
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\9-Escopo\obj\Debug\net7.0\9-Escopo.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\9-Escopo\obj\Debug\net7.0\9-Escopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\9-Escopo\obj\Debug\net7.0\9-Escopo.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\9-Escopo\obj\Debug\net7.0\9-Escopo.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\9-Escopo\obj\Debug\net7.0\9-Escopo.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\9-Escopo\obj\Debug\net7.0\9-Escopo.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\9-Escopo\obj\Debug\net7.0\refint\9-Escopo.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\9-Escopo\obj\Debug\net7.0\9-Escopo.pdb
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\9-Escopo\obj\Debug\net7.0\9-Escopo.genruntimeconfig.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\C-\iniciandoCSharp\9-Escopo\obj\Debug\net7.0\ref\9-Escopo.dll
