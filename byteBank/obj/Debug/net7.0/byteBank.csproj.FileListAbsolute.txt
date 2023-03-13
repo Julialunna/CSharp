@@ -1,0 +1,15 @@
+C:\Users\Júlia Luna\Documents\GitHub\CSharp\byteBank\bin\Debug\net7.0\byteBank.exe
+C:\Users\Júlia Luna\Documents\GitHub\CSharp\byteBank\bin\Debug\net7.0\byteBank.deps.json
+C:\Users\Júlia Luna\Documents\GitHub\CSharp\byteBank\bin\Debug\net7.0\byteBank.runtimeconfig.json
+C:\Users\Júlia Luna\Documents\GitHub\CSharp\byteBank\bin\Debug\net7.0\byteBank.dll
+C:\Users\Júlia Luna\Documents\GitHub\CSharp\byteBank\bin\Debug\net7.0\byteBank.pdb
+C:\Users\Júlia Luna\Documents\GitHub\CSharp\byteBank\obj\Debug\net7.0\byteBank.csproj.AssemblyReference.cache
+C:\Users\Júlia Luna\Documents\GitHub\CSharp\byteBank\obj\Debug\net7.0\byteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Júlia Luna\Documents\GitHub\CSharp\byteBank\obj\Debug\net7.0\byteBank.AssemblyInfoInputs.cache
+C:\Users\Júlia Luna\Documents\GitHub\CSharp\byteBank\obj\Debug\net7.0\byteBank.AssemblyInfo.cs
+C:\Users\Júlia Luna\Documents\GitHub\CSharp\byteBank\obj\Debug\net7.0\byteBank.csproj.CoreCompileInputs.cache
+C:\Users\Júlia Luna\Documents\GitHub\CSharp\byteBank\obj\Debug\net7.0\byteBank.dll
+C:\Users\Júlia Luna\Documents\GitHub\CSharp\byteBank\obj\Debug\net7.0\refint\byteBank.dll
+C:\Users\Júlia Luna\Documents\GitHub\CSharp\byteBank\obj\Debug\net7.0\byteBank.pdb
+C:\Users\Júlia Luna\Documents\GitHub\CSharp\byteBank\obj\Debug\net7.0\byteBank.genruntimeconfig.cache
+C:\Users\Júlia Luna\Documents\GitHub\CSharp\byteBank\obj\Debug\net7.0\ref\byteBank.dll
